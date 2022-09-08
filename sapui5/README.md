@@ -17,7 +17,7 @@
 
 ## sapui5
 
-A Fiori application.
+A Fiori application.testing.
 
 ### Starting the generated app
 
